@@ -1,5 +1,5 @@
 var readlineSync = require('readline-sync');
-var userName = readlineSync.question('May i have  your please? ');
+var userName = readlineSync.question('May i have your name please? ');
 
 console.log("....................................");
 
